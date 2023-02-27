@@ -9,11 +9,12 @@ Please check the [learn more](#learn-more) section for more details.
 - [REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 
 
-## License
-Distributed under the MIT License. See **[LICENSE][license]** for more information.
-
 ## Related
 - [Symfony Rest](https://github.com/habibun/symfony-rest)
+
+
+## License
+Distributed under the MIT License. See **[LICENSE][license]** for more information.
 
 
 [//]: # (Links)
