@@ -7,11 +7,11 @@ Please check the [learn more](#learn-more) section for more details.
 
 ## Learn More
 - [REST API Best Practices – REST Endpoint Design Examples](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
+- [API Architecture - Performance Best Practices for REST APIs](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 
 
 ## Related
 - [Symfony Rest](https://github.com/habibun/symfony-rest)
-- [API Architecture - Performance Best Practices for REST APIs](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 
 
 ## License
